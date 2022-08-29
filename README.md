@@ -1,2 +1,2 @@
-# ARKit-CoreML-RoomMood
+# ARKit-CoreML-LaundryCenter
 ARKit and CoreML personal project
